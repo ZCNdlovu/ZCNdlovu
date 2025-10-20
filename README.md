@@ -1,7 +1,7 @@
 # Digital Portfolio
 ## Zamandlovu C Ndlovu
 ### Career Development
-![Career_Development](https://github.com/user-attachments/assets/5990904c-0b67-4176-ac52-642c9b0ba692)
+![Career_Development](Career Development)
 **Reflection**
 - S: I participated in a Career Development course to understand how to grow and plan my professional future.
 - T: I needed to learn how to take control of my career through goal-setting, planning, and reflection.
