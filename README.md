@@ -168,8 +168,8 @@
 </details>
 
 ---
-
-## 🎥 Workplace Etiquette Mock Interview
+<details>
+<summary> 🎥 Workplace Etiquette Mock Interview</summary>
 
 ### STAR Reflection - Mock Interview Performance
 
@@ -180,7 +180,7 @@
 **Action:** I prepared and recorded responses to various workplace scenarios, applied etiquette principles to real-world situations, demonstrated professional communication skills, and showcased my understanding of workplace protocols through practical examples and reasoned responses.
 
 **Result:** I successfully created a professional mock interview video that demonstrates my comprehensive understanding of workplace etiquette and my ability to apply these principles in practical, real-world professional situations.
-
+</details>
 ### Watch My Mock Interview Demonstration
 
 [![Download Mock Interview Video](https://img.shields.io/badge/📹_Download_Mock_Interview_Video-16.1_MB_MP4-blue)](ZC-Ndlovu-Mock-Interview.mp4)
