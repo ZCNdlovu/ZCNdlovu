@@ -65,7 +65,7 @@
 - R: I gained self-awareness and can now align my skills and interests with a suitable career direction.
 
 ### Workplace Etiquette
-![WorkPlace_Etiquette](https://onedrive.live.com/personal/85e496106916b64e/_layouts/15/stream.aspx?id=%2Fpersonal%2F85e496106916b64e%2FDocuments%2FZc%2DNdlovu%2DMock%2DInterview%28211204803%29%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E795cfada%2Da121%2D4bdf%2D998e%2D6f1abdb924ab&mode=Edit)
+![WorkPlace_Etiquette](https://1drv.ms/v/c/85e496106916b64e/Ea7g05QFxjtNs15huqQh8oYBdwXzaCNPm7UHpOL0pqPwOg?e=NdBxds)
 **Reflection**
 - S: I studied workplace behavior and etiquette.
 - T: I needed to understand how to act professionally and respectfully in different work settings.
