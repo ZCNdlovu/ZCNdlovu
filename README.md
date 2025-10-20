@@ -71,4 +71,15 @@
 - T: I needed to understand how to act professionally and respectfully in different work settings.
 - A: I learned about time management, conflict resolution, and professional conduct.
 - R: I feel prepared to behave responsibly and positively in any work environment
-  
+  # Workplace Etiquette Mock Interview
+
+## 🎥 Watch My Mock Interview
+
+[📹 Download Mock Interview Video](ZC-Ndlovu-Mock-Interview.mp4)
+
+**Video Details:**
+- **File:** ZC-Ndlovu-Mock-Interview.mp4
+- **Size:** 16.1 MB
+- **Format:** MP4
+
+---
