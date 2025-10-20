@@ -111,11 +111,77 @@
 - **R:** I feel prepared to behave responsibly and positively in any work environment.
 </details>
 
+<details>
+<summary>💬 Business Communication</summary>
+
+![Business_Communication](https://github.com/user-attachments/assets/1822acd0-a716-4d0b-b58c-e6b5f3594c2b)
+
+**STAR Reflection**
+- **Situation:** I completed the Business Communication module, scoring 100% with perfect performance across all assessment questions.
+- **Task:** I needed to master professional communication skills for formal business environments, including email etiquette, virtual meeting protocols, and appropriate language usage.
+- **Action:** I practiced formal email writing, studied non-verbal communication cues, learned virtual meeting etiquette, and mastered the use of formal language in professional contexts.
+- **Result:** I achieved a perfect score (100%) and now possess the skills to communicate effectively and professionally in any business setting, enhancing my workplace credibility.
+
+**Assessment Results:** 100% Score | Time: 01:26:07 | All Questions Correct
+</details>
+
+<details>
+<summary>🎤 Interview Skills</summary>
+
+![Interview_Skills](https://github.com/user-attachments/assets/a483a53c-057c-4272-8b95-571ae8452ec6)
+
+**STAR Reflection**
+- **Situation:** I completed the Interview Skills module, achieving a perfect 100% score while mastering various interview techniques and strategies.
+- **Task:** I needed to develop confidence in answering interview questions, master the CAR (Context-Action-Result) method, and learn effective self-presentation during job interviews.
+- **Action:** I practiced common technical and behavioral interview questions, studied the CAR methodology for structured responses, learned proper body language, researched company preparation techniques, and developed strategies for discussing strengths and weaknesses.
+- **Result:** I achieved a perfect score (100%) and significantly improved my interview confidence, now equipped with proven strategies to excel in technical and behavioral interviews.
+
+**Assessment Results:** 100% Score | Time: 01:07:52 | Mastered CAR Methodology
+</details>
+
+<details>
+<summary>🌐 Professional Networking</summary>
+
+![Proffessional_Networking](https://github.com/user-attachments/assets/499c5469-3cbf-48ad-af40-7ad8c0ef7575)
+
+**STAR Reflection**
+- **Situation:** I completed the Professional Networking module, achieving a perfect 100% score while learning strategic relationship-building techniques.
+- **Task:** I needed to understand the principles of professional networking, learn effective event participation strategies, and master the "golden rules" of building sustainable professional relationships.
+- **Action:** I studied networking fundamentals, practiced event engagement techniques, learned relationship maintenance strategies, and identified common networking mistakes to avoid in professional settings.
+- **Result:** I achieved a perfect score (100%) and now understand how to strategically build and maintain professional connections that can support my career growth and create valuable opportunities.
+
+**Assessment Results:** 100% Score | Time: 01:15:11 | Mastered Networking Fundamentals
+</details>
+
+<details>
+<summary>💼 Workplace Etiquette</summary>
+
+![WorkPlace_Etiquette](https://github.com/user-attachments/assets/58974484-d8d0-4927-90e4-20d647369b86)
+
+**STAR Reflection**
+- **Situation:** I completed the Workplace Etiquette module, achieving an 80% score while mastering professional workplace conduct and communication protocols.
+- **Task:** I needed to understand and apply professional workplace behavior, including email etiquette, meeting punctuality, confidential information handling, and appropriate technology use in office environments.
+- **Action:** I studied professional conduct standards, learned conflict resolution techniques, practiced time management strategies, and mastered protocols for handling sensitive information and workplace communications.
+- **Result:** I scored 80% on assessments and now feel thoroughly prepared to behave responsibly, professionally, and positively in any work environment, understanding both formal and informal workplace expectations.
+
+**Assessment Results:** 80% Score | Time: 00:32:47 | Strong Professional Conduct Understanding
+</details>
+
 ---
 
 ## 🎥 Workplace Etiquette Mock Interview
 
-### Watch My Mock Interview
+### STAR Reflection - Mock Interview Performance
+
+**Situation:** I conducted a comprehensive mock interview focused on workplace etiquette scenarios, creating a 16.1 MB video demonstration of my professional interview capabilities and workplace conduct understanding.
+
+**Task:** I needed to demonstrate practical application of workplace etiquette principles in realistic interview scenarios, showcasing my ability to handle professional situations, communicate effectively, and apply etiquette knowledge in practical settings.
+
+**Action:** I prepared and recorded responses to various workplace scenarios, applied etiquette principles to real-world situations, demonstrated professional communication skills, and showcased my understanding of workplace protocols through practical examples and reasoned responses.
+
+**Result:** I successfully created a professional mock interview video that demonstrates my comprehensive understanding of workplace etiquette and my ability to apply these principles in practical, real-world professional situations.
+
+### Watch My Mock Interview Demonstration
 
 [![Download Mock Interview Video](https://img.shields.io/badge/📹_Download_Mock_Interview_Video-16.1_MB_MP4-blue)](ZC-Ndlovu-Mock-Interview.mp4)
 
@@ -123,5 +189,6 @@
 - **File:** ZC-Ndlovu-Mock-Interview.mp4
 - **Size:** 16.1 MB
 - **Format:** MP4
+- **Content:** Practical demonstration of workplace etiquette in interview scenarios
 
 ---
