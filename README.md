@@ -65,12 +65,12 @@
 - R: I gained self-awareness and can now align my skills and interests with a suitable career direction.
 
 ### Workplace Etiquette
-![WorkPlace_Etiquette](https://1drv.ms/v/c/85e496106916b64e/Ea7g05QFxjtNs15huqQh8oYBdwXzaCNPm7UHpOL0pqPwOg?e=NdBxds)
+![WorkPlace_Etiquette](https://git-lfs.github.com/spec/v1
+oid sha256:33fbf96770cbe98957f3fb15ba272fe0820e8e197fc6e2419be0765e66fcf01c
+size 16838322)
 **Reflection**
 - S: I studied workplace behavior and etiquette.
 - T: I needed to understand how to act professionally and respectfully in different work settings.
 - A: I learned about time management, conflict resolution, and professional conduct.
 - R: I feel prepared to behave responsibly and positively in any work environment
-version https://git-lfs.github.com/spec/v1
-oid sha256:33fbf96770cbe98957f3fb15ba272fe0820e8e197fc6e2419be0765e66fcf01c
-size 16838322
+  
