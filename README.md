@@ -75,7 +75,7 @@
 
 ## 🎥 Watch My Mock Interview
 
-[📹 Download Mock Interview Video](ZC-Ndlovu-Mock-Interview.mp4)
+![📹 Download Mock Interview Video](https://git-lfs.github.com/spec/v1)
 
 **Video Details:**
 - **File:** ZC-Ndlovu-Mock-Interview.mp4
