@@ -65,7 +65,7 @@
 - R: I gained self-awareness and can now align my skills and interests with a suitable career direction.
 
 ### Workplace Etiquette
-![WorkPlace_Etiquette](https://git-lfs.github.com/spec/v1)
+![WorkPlace_Etiquette](ZC-Ndlovu-Mock-Interview.mp4)
 **Reflection**
 - S: I studied workplace behavior and etiquette.
 - T: I needed to understand how to act professionally and respectfully in different work settings.
